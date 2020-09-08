@@ -23,8 +23,8 @@ Your file should only contain the command, and nothing else
 ## More Info
 ## Install emacs
 In your terminal:
-///bash
+```bash
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install emacs
-///
+```
